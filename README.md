@@ -1,2 +1,4 @@
 # RFID-Security-System
-Semester 1 Mini-Project
+RFID activated security system employing BlueTooth to communicate with the user's mobile
+
+
